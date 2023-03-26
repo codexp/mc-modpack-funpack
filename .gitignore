@@ -1,0 +1,10 @@
+/logs/*
+/saves/*
+/journeymap/data/*
+/*cache.json
+/options.txt
+/.curseclient
+/minecraftinstance.json
+*.log
+!.gitkeep
+
